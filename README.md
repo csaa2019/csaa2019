@@ -1,4 +1,8 @@
 ## Hi! I'm Chloe.
+
+Feel free to check out my repo for some past projects I've worked on. Highlights include:
+- Triumvirate Game Arena (triumvirate-2d-game), a 2d local multiplayer battle card game with alternating turn-taking and health/mana systems
+- Movie Poster Generator (Project-Site), a project where we trained a DCGAN to generate movie posters and deployed it as a Streamlit app
 <!--
 **csaa2019/csaa2019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
